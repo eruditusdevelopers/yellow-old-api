@@ -8,7 +8,7 @@ Datenstrom Yellow is for people who make websites. [See demo](https://developers
 2. Copy relevant files to your web hosting.  
 3. Open your website in a web browser.
 
-Available themes:
+Official themes:
 
 * [Berlin](https://github.com/datenstrom/yellow-themes/tree/master/berlin): 
   Berlin is a simple and beautiful theme inspired by Dieter Rams.
