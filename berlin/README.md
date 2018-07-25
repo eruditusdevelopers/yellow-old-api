@@ -4,7 +4,7 @@ Berlin is a simple and beautiful theme inspired by Dieter Rams. [See demo](https
 
 <p align="center"><img src="berlin-screenshot.png?raw=true" alt="Screenshot"></p>
 
-## How do I install this?
+## How install theme
 
 1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
 2. [Download theme](https://github.com/datenstrom/yellow-themes/raw/master/zip/berlin.zip). If you are using Safari, right click and select 'Download file as'.
