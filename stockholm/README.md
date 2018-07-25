@@ -4,7 +4,7 @@ Stockholm is a modern business theme. [See demo](https://developers.datenstrom.s
 
 <p align="center"><img src="stockholm-screenshot.png?raw=true" alt="Screenshot"></p>
 
-## How install theme
+## How to install theme
 
 1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
 2. [Download theme](https://github.com/datenstrom/yellow-themes/raw/master/zip/stockholm.zip). If you are using Safari, right click and select 'Download file as'.
