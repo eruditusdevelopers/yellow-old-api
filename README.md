@@ -5,7 +5,7 @@ Datenstrom Yellow themes
 Datenstrom Yellow is for people who make websites. [See demo](https://developers.datenstrom.se/themes/).
 
 1. [Download all themes and unzip them](https://github.com/datenstrom/yellow-themes/archive/master.zip).  
-2. Copy relevant files to your web hosting.  
+2. Copy relevant files to your web server.  
 3. Open your website in a web browser.
 
 Official themes:
