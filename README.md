@@ -4,4 +4,4 @@ Datenstrom Yellow old API
 
 Datenstrom Yellow is for people who make websites. [See demo](https://developers.datenstrom.se/).
 
-It’s time to say goodbye to the old API. [Learn more](https://developers.datenstrom.se/help/).
+This repository contains files for backwards compatibility. [Get support](https://developers.datenstrom.se/help/support).
